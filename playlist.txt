@@ -1,5 +1,6 @@
     가수명                     노래명
 =========================================
+---------옛날 노래 목록
     powfu            -         death bed
     Lauv             -         Paris in the Rain
     Arizona  Zervas  -         Roxanne
@@ -7,3 +8,12 @@
     B                -         B
     C                -         C
     N                -         N
+--------최신 노래 목록
+    Charlie Puth     -         See You Again
+    Maroon 5         -         Nobody's Love
+    U                -         U
+    O                -         O
+    R                -         R
+    L                -         LI
+
+
