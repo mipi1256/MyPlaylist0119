@@ -1,10 +1,11 @@
     가수명                     노래명
 =========================================
-    Charlie Puth     -         See You Again
-    Maroon 5         -         Nobody's Love
     powfu            -         death bed
     Lauv             -         Paris in the Rain
     Arizona  Zervas  -         Roxanne
+    A                -         A
+    B                -         B
+    C                -         C
     
 
 
