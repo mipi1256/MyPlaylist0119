@@ -15,5 +15,9 @@
     O                -         O
     R                -         R
     L                -         LI
+--------Animation 곡 목록
+    N             -            A
+    J             -            L
+
 
 
